@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   PhD student in Information Systems at Georgia State University.
 baseurl: "/personal-site" # the subpath of the site
 url: "https://anng217.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.png
+og_image: /assets/img/profile-pic-resized.png
 google_analytics: "UA-121636368-3"
 
 header:
