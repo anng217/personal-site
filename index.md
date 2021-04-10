@@ -11,7 +11,7 @@ profile_picture:
  I am an incoming doctoral student in Management Information Systems at <span style="font-family: Gill Sans MT"><span style="color:#0039A6"><b>Georgia State University</b></span></span>. My research interest focuses on the economics of information, online labor markets, and entrepreneurship in the digital age. Method-wise, I am learning to use Econometrics, Bayesian Statistics, and Hierarchical Linear Modeling.</p>
 
 <p>
-Before starting my Ph.D., I mainly worked in the space of process digitalization in various organization from large companies to small start-ups. Inspired by the real-world experience, I decided to start my academic career to solve digital transformation questions that keep business owners and leaders awake at night.
+Before starting my Ph.D., I mainly worked in the space of process digitalization in various organizations from large companies to small start-ups. Inspired by the real-world experience, I decided to start my academic career to solve digital transformation questions that keep business owners and leaders awake at night.
 </p>
 
 <p>
