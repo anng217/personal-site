@@ -15,6 +15,6 @@ Before starting my Ph.D., I mainly worked in the space of process digitalization
 </p>
 
 <p>
-In my free time, I groom my cat and shower her with love. I am a picky eater while being a lousy cook, which I have been diligently working on without substantial progress. I learned to play board games a few years ago and become addicted to some of them. Besides being a desk mosquito, I have just taken up ballet and am experiencing a hard time memorizing all the moves.</p>
+In my free time, I groom my cat and shower her with love. I am a picky eater while being a lousy cook, which I have been diligently working on without substantial progress.</p>
 
 </div>
