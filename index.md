@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<div style="text-align: justified"> 
+<div style="text-align: justify"> 
   
 <p>
 I am an incoming doctoral student in Management Information Systems at Georgia State University. My research interest focuses on the economics of information, online labor markets, and entrepreneurship in the digital age. Method-wise, I am learning to use Econometrics, Bayesian Statistics, and Hierarchical Linear Modeling.</p>
