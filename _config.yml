@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     #- name: Research
-    #- name: Work
+    - name: Work
     - name: CV
     - name: Blog
 
