@@ -1,7 +1,7 @@
 ---
-layout: CV
-title: CV
-slug: /CV
+layout: Work 
+title: Work
+slug: /wprk
 items:
   - title: My Interest 1
     image:
