@@ -1,7 +1,7 @@
 ---
 layout: Work 
 title: Work
-slug: /wprk
+slug: /work
 items:
   - title: My Interest 1
     image:
