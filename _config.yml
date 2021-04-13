@@ -3,7 +3,7 @@
 
 title: An Nguyen - MIS GSU
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in Information Systems at Georgia State University.
+  PhD Student in Information Systems at Georgia State University.
 baseurl: "/site" # the subpath of the site
 url: "https://anng217.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.png
